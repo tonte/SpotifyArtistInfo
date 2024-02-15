@@ -1,0 +1,475 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Beyonce&type=artist&market=GB&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 36255392
+      },
+      "genres" : [ "pop", "r&b" ],
+      "href" : "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+      "id" : "6vWDO969PvNqNYHIOW5v0m",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742b7962ada66cbea99dcb0caa",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782b7962ada66cbea99dcb0caa",
+        "width" : 160
+      } ],
+      "name" : "Beyoncé",
+      "popularity" : 85,
+      "type" : "artist",
+      "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 58162385
+      },
+      "genres" : [ "barbadian pop", "pop", "urban contemporary" ],
+      "href" : "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+      "id" : "5pKCCKE2ajJHZ9KAiaK11H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517499e4fca7c0b7cb166d915789",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17899e4fca7c0b7cb166d915789",
+        "width" : 160
+      } ],
+      "name" : "Rihanna",
+      "popularity" : 90,
+      "type" : "artist",
+      "uri" : "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kmn7krzlJggDr3C00SoCF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 170
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4kmn7krzlJggDr3C00SoCF",
+      "id" : "4kmn7krzlJggDr3C00SoCF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273be5258aab449af6d2ac3dc44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02be5258aab449af6d2ac3dc44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851be5258aab449af6d2ac3dc44",
+        "width" : 64
+      } ],
+      "name" : "Beyonce Smith",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:4kmn7krzlJggDr3C00SoCF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 101181120
+      },
+      "genres" : [ "pop" ],
+      "href" : "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id" : "06HL4z0CvFAxyc27GXpf02",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178859e4c14fa59296c8649e0e4",
+        "width" : 160
+      } ],
+      "name" : "Taylor Swift",
+      "popularity" : 100,
+      "type" : "artist",
+      "uri" : "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7vbtWyaqcB8RlHqqIKlHCU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59086
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7vbtWyaqcB8RlHqqIKlHCU",
+      "id" : "7vbtWyaqcB8RlHqqIKlHCU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a309988693e9c0ec23532a9a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a309988693e9c0ec23532a9a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a309988693e9c0ec23532a9a",
+        "width" : 64
+      } ],
+      "name" : "Mc Beyonce",
+      "popularity" : 32,
+      "type" : "artist",
+      "uri" : "spotify:artist:7vbtWyaqcB8RlHqqIKlHCU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5ZLGAeI8ow3EIwTx2ePHXD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 179
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5ZLGAeI8ow3EIwTx2ePHXD",
+      "id" : "5ZLGAeI8ow3EIwTx2ePHXD",
+      "images" : [ ],
+      "name" : "Beyoncé",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5ZLGAeI8ow3EIwTx2ePHXD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4KksP8dIhwtsf7RD6Xvd6y"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1216
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4KksP8dIhwtsf7RD6Xvd6y",
+      "id" : "4KksP8dIhwtsf7RD6Xvd6y",
+      "images" : [ ],
+      "name" : "Beyoncé Knowles Carter",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4KksP8dIhwtsf7RD6Xvd6y"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59BdyBFNBtNV9CQYeCVxDp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 169
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/59BdyBFNBtNV9CQYeCVxDp",
+      "id" : "59BdyBFNBtNV9CQYeCVxDp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1e2d0aeb47063c1179d6e96e",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741e2d0aeb47063c1179d6e96e",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781e2d0aeb47063c1179d6e96e",
+        "width" : 160
+      } ],
+      "name" : "Beyonce's Fiancés",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:59BdyBFNBtNV9CQYeCVxDp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5Gc7Az81teeSFdT7mxdzFx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 319
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5Gc7Az81teeSFdT7mxdzFx",
+      "id" : "5Gc7Az81teeSFdT7mxdzFx",
+      "images" : [ ],
+      "name" : "Beyonce Gisselle Knowles",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5Gc7Az81teeSFdT7mxdzFx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Ox0TEvz2VGDhEPvODDBBv"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 109
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Ox0TEvz2VGDhEPvODDBBv",
+      "id" : "6Ox0TEvz2VGDhEPvODDBBv",
+      "images" : [ ],
+      "name" : "Jayla Beyonce Wright",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Ox0TEvz2VGDhEPvODDBBv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0GQPhNv90q4y9TJO3YjZJy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 421
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0GQPhNv90q4y9TJO3YjZJy",
+      "id" : "0GQPhNv90q4y9TJO3YjZJy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c31d5e5ee2a3491ccdaa4255",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c31d5e5ee2a3491ccdaa4255",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c31d5e5ee2a3491ccdaa4255",
+        "width" : 64
+      } ],
+      "name" : "Fran London feat. Beyoncé",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:0GQPhNv90q4y9TJO3YjZJy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 777945
+      },
+      "genres" : [ "edm", "progressive house", "progressive trance", "trance", "uplifting trance" ],
+      "href" : "https://api.spotify.com/v1/artists/10gzBoINW3cLJfZUka8Zoe",
+      "id" : "10gzBoINW3cLJfZUka8Zoe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb2a538d1a36a271885510d98a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051742a538d1a36a271885510d98a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1782a538d1a36a271885510d98a",
+        "width" : 160
+      } ],
+      "name" : "Above & Beyond",
+      "popularity" : 61,
+      "type" : "artist",
+      "uri" : "spotify:artist:10gzBoINW3cLJfZUka8Zoe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rJHt6aqpDssgEg4fqVZ3w"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5rJHt6aqpDssgEg4fqVZ3w",
+      "id" : "5rJHt6aqpDssgEg4fqVZ3w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733360c9cd80977b60f757fb44",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023360c9cd80977b60f757fb44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513360c9cd80977b60f757fb44",
+        "width" : 64
+      } ],
+      "name" : "LOVATO BEYONCE",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:5rJHt6aqpDssgEg4fqVZ3w"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0cxMc26EwEdpPRpIQuFViu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0cxMc26EwEdpPRpIQuFViu",
+      "id" : "0cxMc26EwEdpPRpIQuFViu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b5334e5d08c799ddc2facce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b5334e5d08c799ddc2facce",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514c6bc9227383368db6e1ed87",
+        "width" : 64
+      } ],
+      "name" : "De Captain Beyonce Famacy",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:0cxMc26EwEdpPRpIQuFViu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3VtLasOBrPTOBb1nhCxfSz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 20
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3VtLasOBrPTOBb1nhCxfSz",
+      "id" : "3VtLasOBrPTOBb1nhCxfSz",
+      "images" : [ ],
+      "name" : "Ade-Beyonce",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3VtLasOBrPTOBb1nhCxfSz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/64YaFlpRdDAVGhzxH78N9p"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 9
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/64YaFlpRdDAVGhzxH78N9p",
+      "id" : "64YaFlpRdDAVGhzxH78N9p",
+      "images" : [ ],
+      "name" : "Young Beyonce",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:64YaFlpRdDAVGhzxH78N9p"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22mCSmXjDIjt4fEMF0kdlD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/22mCSmXjDIjt4fEMF0kdlD",
+      "id" : "22mCSmXjDIjt4fEMF0kdlD",
+      "images" : [ ],
+      "name" : "Queen Beyonceeee",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:22mCSmXjDIjt4fEMF0kdlD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75wAgb4OFsxqkrtBUDbFZE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/75wAgb4OFsxqkrtBUDbFZE",
+      "id" : "75wAgb4OFsxqkrtBUDbFZE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731285a2556d78b5dbecaad810",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021285a2556d78b5dbecaad810",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511285a2556d78b5dbecaad810",
+        "width" : 64
+      } ],
+      "name" : "Beyonce2.0",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:75wAgb4OFsxqkrtBUDbFZE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5zKtGkXaCd2kTyHljTF5QX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 88
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5zKtGkXaCd2kTyHljTF5QX",
+      "id" : "5zKtGkXaCd2kTyHljTF5QX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738cdcfccc1ef1225e3d321235",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028620cce6b9626bec2711fdf2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518cdcfccc1ef1225e3d321235",
+        "width" : 64
+      } ],
+      "name" : "Dama Beyonce",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5zKtGkXaCd2kTyHljTF5QX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7ea4gEMKjLRe77frBn1vhy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7ea4gEMKjLRe77frBn1vhy",
+      "id" : "7ea4gEMKjLRe77frBn1vhy",
+      "images" : [ ],
+      "name" : "Beyonce de Romania (Madalina)",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7ea4gEMKjLRe77frBn1vhy"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Beyonce&type=artist&market=GB&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 40
+  }
+}
